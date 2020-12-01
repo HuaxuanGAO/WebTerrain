@@ -1,5 +1,6 @@
-### todo
-1. garbage cleanup
-2. load large model performance
-3. server keep alive
-4. config file for endpoints
+# WebTerrain
+Webterrain is a terrain toolkit that supports both visualization and computation for terrain data on the web.
+
+It has been submitted to ICDE 2021 (https://icde2021.gr/call-for-demonstration/)
+
+A live demo can be found here http://rwcpu1.cse.ust.hk/WebTerrain/
