@@ -3,4 +3,6 @@ Webterrain is a terrain toolkit that supports both visualization and computation
 
 It has been submitted to ICDE 2021 (https://icde2021.gr/call-for-demonstration/)
 
-A live demo can be found here http://rwcpu1.cse.ust.hk/WebTerrain/
+The web page is now hosted on http://rwcpu1.cse.ust.hk/WebTerrain/
+
+A demo video can be found here https://www.youtube.com/watch?v=zy4IAc6PPUg
